@@ -4,9 +4,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-<title>TreeSoft数据库管理系统</title>
-<meta name="Keywords" content="Treesoft数据库管理系统">
-<meta name="Description" content="Treesoft数据库管理系统">
+<title>数据库管理系统</title>
+<meta name="Keywords" content="数据库管理系统">
+<meta name="Description" content="数据库管理系统">
 <%@ include file="/WEB-INF/views/include/easyui.jsp"%>
 <%@ include file="/WEB-INF/views/include/codemirror.jsp"%>
 <script src="${ctx}/static/plugins/My97DatePicker/WdatePicker.js" type="text/javascript"></script>
@@ -49,7 +49,7 @@
             <div id="topbar"  style="width: 100%;height:52px; background: #0092dc url('${ctx}/static/images/mosaic-pattern.png') repeat;opacity:0.8;">
             
                 <div class="top-bar-left">
-                    <h1 style="margin-left: 10px; margin-top: 10px;color: #fff"> <img src="${ctx}/static/images/logo.png" >TreeSoft数据库管理系统<span style="color:#00824D;font-size:14px; font-weight:bold;"> TreeDMS</span> <span style="color: #fff;font-size:12px;">V2.3.1</span> </h1>
+                    <h1 style="margin-left: 10px; margin-top: 10px;color: #fff"> <img src="${ctx}/static/images/logo.png" >数据库管理系统<span style="color:#00824D;font-size:14px; font-weight:bold;"> </span> <span style="color: #fff;font-size:12px;">V2.3.1</span> </h1>
                 </div>
                 
                 <div class="top-bar-right" >
